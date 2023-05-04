@@ -1,4 +1,8 @@
 # GEO helper
+![Packagist Version](https://img.shields.io/packagist/v/zkelo/geo-helper?style=flat-square)
+![Codacy grade](https://img.shields.io/codacy/grade/ae39348b526f4a7594e89e5b1474f59c?style=flat-square)
+![Packagist Downloads](https://img.shields.io/packagist/dm/zkelo/geo-helper?style=flat-square)
+
 Simple class that helps you to work with coordinates.
 
 ## Install
