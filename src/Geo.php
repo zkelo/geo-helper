@@ -6,7 +6,7 @@ namespace zkelo\helpers;
  * Helper class to work with GEO coords
  *
  * @version 1.0.0
- * @see https://stackoverflow.com/questions/10053358/measuring-the-distance-between-two-coordinates-in-php
+ * @see https://stackoverflow.com/a/10054282/4933769 Reference
  */
 class Geo
 {
