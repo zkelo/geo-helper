@@ -1,0 +1,19 @@
+{
+    "name": "zkelo/geo-helper",
+    "description": "Simple GEO helper class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "zkelo\\helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksandr Ryabov",
+            "email": "zkelo@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
